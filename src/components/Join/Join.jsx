@@ -11,13 +11,17 @@ const Join = () => {
           <span> LEVEL UP</span>
         </div>
         <div>
-          <span>YOUR BODY</span>
+          <span>YOUR's BODY</span> ̰
           <span className="stroke-text"> WITH US?</span>
         </div>
       </div>
       <div className="right-j">
         <form action="" className="email-container">
-          <input type="email" name="user_email" placeholder="Enter your Email address"/>
+          <input
+            type="email"
+            name="user_email"
+            placeholder="Enter your Email address"
+          />
           <button>Join Now</button>
         </form>
       </div>
